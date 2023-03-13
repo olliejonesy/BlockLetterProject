@@ -1,0 +1,15 @@
+# Ollie Jones
+# I am new to coding in Python!
+# ASCII art for the letter O
+print("  __")
+print(" /  \\")
+print("|    |")
+print(" \\__/")
+print("")
+
+# ASCII art for the letter J
+print("   __")
+print("  / /")
+print(" | | ")
+print(" | | ")
+print("/_/  ")
